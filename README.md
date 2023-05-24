@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ZachYC
-- 👀 I’m interested in text generation in NLP and related ML.
-- 🌱 I’m currently looking forward to a PhD journey.
+- 👋 Hi, I’m Yichen Wang @ZachYC
+- 👀 I’m interested in generation in NLP and related ML, security topics.
+- 🌱 I’m currently looking forward to a Ph.D. journey.
 - 💞️ I’m looking to collaborate on everything!
 - 📫 Reach me at yichenwg@gmail.com
 
